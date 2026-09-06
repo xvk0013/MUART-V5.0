@@ -1,0 +1,5 @@
+# Install a torch/torchaudio build matching the target machine's CUDA runtime.
+numpy
+scipy
+torch
+torchaudio

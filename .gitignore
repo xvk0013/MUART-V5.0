@@ -1,0 +1,13 @@
+# Python caches and local test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.test_tmp/
+
+# Machine-local editor settings
+.vscode/
+
+# Training outputs are large and should live outside code transfers
+checkpoints/
+checkpoints_*/
+
